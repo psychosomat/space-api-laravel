@@ -1,7 +1,5 @@
 # Space API
 
-[![Tests](https://github.com/psychosomat/space-api/actions/workflows/tests.yml/badge.svg)](https://github.com/psychosomat/space-api/actions/workflows/tests.yml)
-[![Lint](https://github.com/psychosomat/space-api/actions/workflows/lint.yml/badge.svg)](https://github.com/psychosomat/space-api/actions/workflows/lint.yml)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.2-blue.svg)](https://www.php.net/)
 [![Laravel Version](https://img.shields.io/badge/laravel-%5E11.0-red.svg)](https://laravel.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
