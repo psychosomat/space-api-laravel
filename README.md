@@ -1,7 +1,7 @@
 # Space API
 
-[![Tests](https://github.com/Dark/space-api/actions/workflows/tests.yml/badge.svg)](https://github.com/Dark/space-api/actions/workflows/tests.yml)
-[![Lint](https://github.com/Dark/space-api/actions/workflows/lint.yml/badge.svg)](https://github.com/Dark/space-api/actions/workflows/lint.yml)
+[![Tests](https://github.com/psychosomat/space-api/actions/workflows/tests.yml/badge.svg)](https://github.com/psychosomat/space-api/actions/workflows/tests.yml)
+[![Lint](https://github.com/psychosomat/space-api/actions/workflows/lint.yml/badge.svg)](https://github.com/psychosomat/space-api/actions/workflows/lint.yml)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.2-blue.svg)](https://www.php.net/)
 [![Laravel Version](https://img.shields.io/badge/laravel-%5E11.0-red.svg)](https://laravel.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +12,7 @@ A simple Laravel API with a basic frontend. This project was created for educati
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Dark/space-api.git
+    git clone https://github.com/psychosomat/space-api.git
     cd space-api
     ```
 2.  Install dependencies:
